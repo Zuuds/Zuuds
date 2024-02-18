@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **yashyerolkar@gmail.com**
 
-- 📄 Know about my experiences [Interned as a Backend Engineer at Rapido - an exciting company that provides Bike (motorcycle) Taxi services](Interned as a Backend Engineer at Rapido - an exciting company that provides Bike (motorcycle) Taxi services)
+- 📄 Know about my experiences - Interned as a Backend Engineer at Rapido - an exciting company that provides Bike (motorcycle) Taxi services
 
 - ⚡ Fun fact **I love going to the beach!**
 
