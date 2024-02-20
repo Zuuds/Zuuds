@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mann</h1>
 <h3 align="center">Computer Science Masters Graduate | Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://previews.123rf.com/images/powerart/powerart1708/powerart170804949/84519682-isolated-programmer-icon-symbol-on-clean-background-vector-coder-element-in-trendy-style.jpg">
+<img align="right" alt="Coding" width="400" src="[https://previews.123rf.com/images/powerart/powerart1708/powerart170804949/84519682-isolated-programmer-icon-symbol-on-clean-background-vector-coder-element-in-trendy-style.jpg](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=826&t=st=1708394073~exp=1708394673~hmac=501f389741c9216dc2cddf4c85a7cfcc91ebdd0a6e9a95ca5974d9b405c9d518)">
 
 - 🔭 I’m currently working on **Microservices Architecture**
 
