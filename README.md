@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Microservices Architecture**
 
-- 🌱 I’m currently learning **Kubertenes, Helm, Vue.js**
+- 🌱 I’m currently learning **Kubertenes, GraphQL, Flutter**
 
 - 📫 How to reach me **yashyerolkar@gmail.com**
 
